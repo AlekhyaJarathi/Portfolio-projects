@@ -25,4 +25,4 @@ const welcomeMessage = (Array) => {
     console.log(theMessageString);
 };
 
-WelcomeMessage(messageData);
+welcomeMessage(messageData);
