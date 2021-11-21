@@ -14,7 +14,7 @@ const welomeMessage = {
 let messageData = [];
 for (let prop in welcomeMessage) {
     let keyValue = welcomeMessage[prop];
-    let randomIndex = randomNumberGenerator(keyValue.length);
+    let randomIndex = randomNumber(keyValue.length);
     messageData.push(keyValue[randomIndex]);
 };
 // Main Function. this will log the Message into the screen 
@@ -25,4 +25,4 @@ const welcomeMessage = (Array) => {
     console.log(theMessageString);
 };
 
-astrologyMessage(messageData);
+WelcomeMessage(messageData);
