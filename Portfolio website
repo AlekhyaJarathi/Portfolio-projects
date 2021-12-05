@@ -6,7 +6,7 @@
 <body>
      <h1>About me</h1>
      
-     <img src="This Pc/Documents/profilepic.jpg" alt="My image">
+     <img src="This Pc/OS(C:)/Users/Alekhya Jarathi/Documents/Portfolio projects/anupic.jpg" alt="My image">
      <P> Hi, I am Alekhya, I am currently working as an accounts payable clerk for Bunzl uk Ltd. I am based in London. 
      I've studied my Msc.Management and Production Engineering from Warsawuniversity of technnology, Warsaw, Poland and
      B.eng Aerospace engineering from National Aerospace university, kharkiv, ukraine. But guess what I am from India. I
@@ -14,6 +14,8 @@
      
      In my free time I do cooking, watching movies,getting some excersise and go out with my hubby.
      I enjoy learning new things. thats how my intrest in programming began.</P>
+     
+     <button onclick="alert('Thats aboyt it!')">Click Me</button>
  </body>
  
  <h>Projets</h>
