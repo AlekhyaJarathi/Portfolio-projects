@@ -15,7 +15,7 @@
      In my free time I do cooking, watching movies,getting some excersise and go out with my hubby.
      I enjoy learning new things. thats how my intrest in programming began.</P>
      
-     <button onclick="alert('Thats aboyt it!')">Click Me</button>
+     <button onclick="alert('Thats about it!')">Click Me</button>
  </body>
  
  <h3 style="color:green;">Projets</h3>
@@ -23,7 +23,7 @@
     <ul1>Mixed messages </ul1>
  </li>
  
- <h3 style="color:green;>Skills</h3>
+ <h3 style="color:green;">Skills</h3>
  <p1> Python. JS . C# . Java . Html . CSS3 </p1>
  
  
