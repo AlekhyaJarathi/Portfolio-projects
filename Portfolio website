@@ -4,10 +4,10 @@
   <title>Alekhya Jarathi</title>   
 </head>
 <body>
-     <h1>About me</h1>
+     <h1 style="color:green;">About me</h1>
      
      <img src="This Pc/OS(C:)/Users/Alekhya Jarathi/Documents/Portfolio projects/anupic.jpg" alt="My image">
-     <P> Hi, I am Alekhya, I am currently working as an accounts payable clerk for Bunzl uk Ltd. I am based in London. 
+     <P style="color:orange;border-width:10px;border-style:solid;border-color:olivedrab;"> Hi, I am Alekhya, I am currently working as an accounts payable clerk for Bunzl uk Ltd. I am based in London. 
      I've studied my Msc.Management and Production Engineering from Warsawuniversity of technnology, Warsaw, Poland and
      B.eng Aerospace engineering from National Aerospace university, kharkiv, ukraine. But guess what I am from India. I
      believe the world is too small, your dreams can take you anywhere. 
@@ -18,13 +18,13 @@
      <button onclick="alert('Thats aboyt it!')">Click Me</button>
  </body>
  
- <h>Projets</h>
+ <h3 style="color:green;">Projets</h3>
  <li>
     <ul1>Mixed messages </ul1>
  </li>
  
- <h1>Skills</h1>
- <p> Python. JS . C# . Java . Html . CSS3 </p>
+ <h3 style="color:green;>Skills</h3>
+ <p1> Python. JS . C# . Java . Html . CSS3 </p1>
  
  
  
